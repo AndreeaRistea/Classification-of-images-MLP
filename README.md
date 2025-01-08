@@ -74,7 +74,3 @@ Accuracy on the test set: 89.12%
 - Use Google Colab if your local machine lacks sufficient computational resources.
 - If accuracy is low, consider tweaking the model architecture, learning rate, or number of epochs.
 
-## Acknowledgments
-
-- TensorFlow/Keras documentation: [https://www.tensorflow.org/](https://www.tensorflow.org/)
-- MNIST and Fashion MNIST datasets are provided by Yann LeCun and Zalando Research respectively.
